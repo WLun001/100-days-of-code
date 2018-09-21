@@ -1,5 +1,5 @@
 # 100-days-of-code
-Code atleast an hour every day
+Code minimum an hour every day for the next 100 days.
 
 [current progress](log.md)
 
