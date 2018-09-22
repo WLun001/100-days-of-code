@@ -7,5 +7,5 @@
 
 ### Day 2: Sept 22, 2018
 **Today's Progress**: Complete toy language parser <br>
-**Thoughts:** Have basic understanding about parser and some parser tool, eg RACC. <br>
+**Thoughts:** Have basic understanding about parser and some parser tool, eg RACC, is Ruby version of YACC. <br>
 **Link to work:** [awesome-lang](https://github.com/WLun001/awesome-lang) <br>
