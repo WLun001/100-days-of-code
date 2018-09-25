@@ -19,3 +19,9 @@
 **Today's Progress**: Get started with Ionic framework <br>
 **Thoughts:** Ionic framework is extended from Angular, which means they shared similar patterns and structures. Get getting started with sample project and read through the source code <br>
 **Link to reference:** [ionic](https://ionicframework.com/docs/intro/tutorial/) <br>
+
+### Day 5: Sept 25, 2018
+**Today's Progress**: Get started with Mercurial <br>
+**Thoughts:** Mercurial is a version control system similar to Git, trying to familiarise the this<br>
+**Link to reference:** [Mercurial](https://www.mercurial-scm.org/) <br>
+
