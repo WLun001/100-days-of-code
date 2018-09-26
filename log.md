@@ -25,3 +25,8 @@
 **Thoughts:** Mercurial is a version control system similar to Git, trying to familiarise the this<br>
 **Link to reference:** [Mercurial](https://www.mercurial-scm.org/) <br>
 
+### Day 6: Sept 26, 2018
+**Today's Progress**: Learn about Hgflow and Ionic<br>
+**Thoughts:** Hgflow is an open source extension for Mercurial to simplfied the branching workflow. A little bit unfamilar with the Ionic core concept, need to pick up more. <br>
+**Link to reference:** [Mercurial](https://www.mercurial-scm.org/) [ionic](https://ionicframework.com/docs/intro/tutorial/)  <br>
+
