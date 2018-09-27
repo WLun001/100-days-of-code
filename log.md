@@ -30,3 +30,8 @@
 **Thoughts:** Hgflow is an open source extension for Mercurial to simplfied the branching workflow. A little bit unfamilar with the Ionic core concept, need to pick up more. <br>
 **Link to reference:** [Mercurial](https://www.mercurial-scm.org/) [ionic](https://ionicframework.com/docs/intro/tutorial/)  <br>
 
+### Day 7: Sept 27, 2018
+**Today's Progress**: Getting familar with hgflow and basic CRUD offline Ionic application <br>
+**Thoughts:** Plan to use git-flow for my next project. For Ionic, neeed to understand more about the core architecture.<br>
+**Link to reference:** [ionic sqlite](https://www.djamware.com/post/59c53a1280aca768e4d2b143/ionic-3-angular-4-and-sqlite-crud-offline-mobile-app) <br>
+
