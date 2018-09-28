@@ -35,3 +35,8 @@
 **Thoughts:** Plan to use git-flow for my next project. For Ionic, neeed to understand more about the core architecture.<br>
 **Link to reference:** [ionic sqlite](https://www.djamware.com/post/59c53a1280aca768e4d2b143/ionic-3-angular-4-and-sqlite-crud-offline-mobile-app) <br>
 
+### Day 8: Sept 28, 2018
+**Today's Progress**: Trying to understand Angular architecture <br>
+**Thoughts:** Angular architecture might sounds confusing at first, but it was really a masterpiece.<br>
+**Link to reference:** [Angular docs](https://angular.io/guide/architecture) <br>
+
