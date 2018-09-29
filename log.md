@@ -40,3 +40,7 @@
 **Thoughts:** Angular architecture might sounds confusing at first, but it was really a masterpiece.<br>
 **Link to reference:** [Angular docs](https://angular.io/guide/architecture) <br>
 
+### Day 9: Sept 29, 2018
+**Today's Progress**: Dive deep into Angular - service and dependency injector  <br>
+**Thoughts:** Overall ok. No issue yet, need more experience.<br>
+**Link to reference:** [Angular docs](https://angular.io/) <br>
